@@ -9,10 +9,10 @@ ul, ol {list-style-type: none;}
 
 .footer-logo-web,
 .header-logo-web {
-    font-family: "Ralewey", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;}
@@ -49,10 +49,10 @@ ul, ol {list-style-type: none;}
     background-color: #2e2f42;
 }
 
-h1 {
+.main-title {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;}
@@ -72,19 +72,23 @@ h1 {
     background-color: #404BBF;
 }
 
-h2 {
+.title-second-level {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize;
+
 }
 
-h3 {font-weight: 500;
+.third-level-title {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #2e2f42;
+}
 
 .benefits-text,
 .portfolio-text,
